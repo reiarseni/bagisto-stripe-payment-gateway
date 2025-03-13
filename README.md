@@ -47,7 +47,7 @@ Install this package now to receive secure payments in your online store. Stripe
    php artisan optimize
    ```
 
-5. **Configure Stripe in the Bagisto Admin Panel:**
+5. **Configure Stripe in your Bagisto Admin Panel:**
    - Navigate to:
      ```
      http://localhost:8000/admin/configuration/sales/payment_methods
